@@ -10,8 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
-    "@t3headless/nuxt-typo3": "^2.0.0-alpha.25",
+    "@t3headless/nuxt-typo3": "^2.0.0",
     "nuxt": "^3.8.1",
     "typescript": "^5.2.2",
     "vue": "^3.3.8",
